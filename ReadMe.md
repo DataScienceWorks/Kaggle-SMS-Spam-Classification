@@ -45,8 +45,9 @@ We thank Tiago A. Almeida, José María Gómez Hidalgo and Akebo Yamakami for pr
 
 * [SMS Spam Collection Dataset](https://www.kaggle.com/uciml/sms-spam-collection-dataset)
 * [Spam Classifier in Python from scratch](https://towardsdatascience.com/spam-classifier-in-python-from-scratch-27a98ddd8e73)
-* [Yandex Data School -  ML at Imperial 2016](https://github.com/yandexdataschool/MLatImperial2016)
+* [Yandex Data School -  ML at Imperial 2016](https://github.com/yandexdataschool/MLatImperial2016/blob/6d5cdacdd57c33d7cb4916dab7e866291a27b2fa/1%20-%20Introduction%20to%20sklearn.ipynb)
 
 * [Youtube -- Probability Theory - The Math of Intelligence #6 by Siraj Raval](https://www.youtube.com/watch?v=PrkiRVcrxOs)
 * [Write SMS-spam detector with Scikit-learn](https://medium.com/@kopilov.vlad/detect-sms-spam-in-kaggle-with-scikit-learn-5f6afa7a3ca2)
+* [Ben-Gurion University of Negev -- Classification of text documents: 20-Newsgroup Dataset](https://www.cs.bgu.ac.il/~elhadad/nlp17/Classification_20Groups_Sklearn.html)
 
